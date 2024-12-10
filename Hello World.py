@@ -1,3 +1,3 @@
-print("Hello World")
-for i in range (20):
+count = int(input("Tell me a number"))
+for i in range (count):
     print(i)
